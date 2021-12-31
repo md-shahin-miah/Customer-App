@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527298272426",
+    "firebase_url": "https://ordere-4b57b.firebaseio.com",
+    "project_id": "ordere-4b57b",
+    "storage_bucket": "ordere-4b57b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527298272426:android:f433da1c168694dff044d3",
+        "android_client_info": {
+          "package_name": "uk.co.ordervox.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527298272426-q65ve2160m9v4s4b8kete99csfq0sj0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApUD3m_6AjZne2bIhCXLHPTqvJI72ViKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527298272426-q65ve2160m9v4s4b8kete99csfq0sj0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
