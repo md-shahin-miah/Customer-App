@@ -1,0 +1,99 @@
+name: blue
+description: A new Flutter project.
+version: 5.2.0+15
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  oktoast: ^2.3.0
+  image: ^2.1.4
+  snack: ^1.0.5
+  group_radio_button:
+  flutter_isolate:
+  screen:
+#  audioplayers:z
+#  fluttertoast:
+
+#  esc_pos_bluetooth:
+#    path: ../../
+#  esc_pos_utils: ^0.3.6
+  # esc_pos_utils:
+    # path: ../../../esc_pos_utils
+#  charset_converter: ^1.0.3
+  intl: ^0.16.1
+#  qr_flutter: ^3.2.0
+  path_provider:
+  flutter_boom_menu: ^1.0.2
+  provider: ^4.3.3
+  flutter_switch: ^0.3.0
+  dropdown_formfield:
+  connectivity:
+  package_info:
+  flutter_restart:
+  percent_indicator: "^2.1.7+2"
+  get:
+  permission_handler:
+  blue_thermal_printer: 1.1.4
+  device_info: ^2.0.2
+
+
+  charts_flutter: ^0.9.0
+  http: ^0.12.2
+  flutter_svg:
+  url_launcher:
+  shimmer: ^1.1.2
+  pie_chart: ^4.0.1
+  fl_chart: ^0.12.0
+  curved_navigation_bar: ^0.3.1
+  fdottedline: ^1.0.1
+  stack_trace: ^1.9.6
+  need_resume: ^1.0.5+1
+  flutter_rating_bar: ^3.2.0+1
+  shared_preferences: ^0.5.12+4
+  firebase_messaging: ^7.0.3
+
+#  audioplayers: ^0.17.0
+  datetime_picker_formfield: ^1.0.0
+#  open_file: ^3.2.1
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.8.1
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/collection.svg
+    - assets/icons/delivery.svg
+    - assets/icons/eatin.svg
+    - assets/icons/online_order.svg
+    - assets/icons/printer.svg
+    - assets/icons/table_booking.svg
+    - assets/icons/printer_connected.svg
+    - assets/icons/printer_disconnected.svg
+    - assets/icons/vegan.png
+    - assets/icons/vegetarian.png
+    - assets/icons/nut_allergy.png
+    - assets/icons/halal.png
+    - assets/icons/glutenfree.png
+    - assets/logo.png
+    - assets/hello.wav
+    - assets/icons/datetime.jpg
+    - assets/errornt.png
+    - assets/no_data.svg
+    - assets/happy.mp3
+    - assets/audio.wav
+    - assets/OrderEe.png
+
