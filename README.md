@@ -1,1 +1,1 @@
-Merchant app
+Customer  app for maintain the business
